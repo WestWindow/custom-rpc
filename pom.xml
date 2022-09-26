@@ -12,6 +12,10 @@
     <modules>
         <module>custom-rpc-client</module>
         <module>custom-rpc-server</module>
+        <module>custom-rpc-common</module>
+        <module>custom-rpc-proto</module>
+        <module>custom-rpc-codec</module>
+        <module>custom-rpc-transport</module>
     </modules>
 
     <properties>
