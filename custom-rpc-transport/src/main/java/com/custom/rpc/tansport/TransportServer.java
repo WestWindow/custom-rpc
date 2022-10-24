@@ -9,7 +9,7 @@ package com.custom.rpc.tansport;
  * @Author peco
  * @Date 2022/9/26 16:36
  */
-public interface TansportServer {
+public interface TransportServer {
 
     void init(int port,RequestHandler handler);
 

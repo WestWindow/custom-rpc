@@ -11,6 +11,6 @@ import java.io.OutputStream;
  */
 public interface RequestHandler {
 
-    void onRequest(InputStream revice, OutputStream toResp);
+    void onRequest(InputStream recive, OutputStream toResp);
 
 }

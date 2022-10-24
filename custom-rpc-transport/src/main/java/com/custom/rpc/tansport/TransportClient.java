@@ -14,7 +14,7 @@ import java.io.InputStream;
  * @Author peco
  * @Date 2022/9/26 16:31
  */
-public interface TansportClient {
+public interface TransportClient {
 
     void connect(Peer peer);
 

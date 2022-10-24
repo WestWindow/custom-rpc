@@ -1,3 +1,5 @@
+package com.custom.rpc.codec;
+
 import com.alibaba.fastjson.JSON;
 
 /**

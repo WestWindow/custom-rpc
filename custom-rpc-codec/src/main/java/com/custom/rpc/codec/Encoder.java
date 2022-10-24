@@ -1,3 +1,5 @@
+package com.custom.rpc.codec;
+
 /**
  * @ClassName Ecoder
  * @Description 序列化
